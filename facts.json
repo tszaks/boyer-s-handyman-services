@@ -1,0 +1,49 @@
+{
+  "place_id": "ChIJ771U9pSdyYkRDY2z15Cm3eo",
+  "name": "Boyer's Handyman Services",
+  "phone": "(717) 264-8717",
+  "phone_digits": "7172648717",
+  "address": "1698 Richard Ave, Chambersburg, PA 17201, USA",
+  "rating": "4.3",
+  "review_count": "23",
+  "hours": [],
+  "types": [
+    "point_of_interest",
+    "general_contractor",
+    "service",
+    "establishment"
+  ],
+  "confirmed_services": [
+    "doors windows",
+    "fixtures",
+    "painting",
+    "deck fence"
+  ],
+  "reviews": [
+    {
+      "stars": 4,
+      "author": "Christina Purvis",
+      "text": "Mr. Boyer was timely, efficient, and did quality work. He was personable and made sure we understood what was being done  and that we didn't have any questions. He also offered to come back next season to work on other projects we are looking at. We have looked so hard and long for a handyman, to not only show up, but also get the work down. We are very happy and will definitely use Boyer's Handyman Services again!"
+    },
+    {
+      "stars": 5,
+      "author": "Erin Davis",
+      "text": "We had been looking for someone to replace some boards on our deck for quite a while, but nobody would return our calls. Jeremy responded quickly to my inquiry, came the next day to see the project and provide a quote, and started/finished the project the following day.  We are very please with how the deck turned out and also thrilled to have the project finished. For our next project, Jeremy will be our first phone call."
+    },
+    {
+      "stars": 5,
+      "author": "Cindy Shrader",
+      "text": "Called Bill for an estimate on some outdoor painting I needed done. Very prompt response with estimate and completion of work. Very personable and great attention to detail. Willing to help with anything that needs to be done with little effort on my part. Will definitely consider for additional projects"
+    }
+  ],
+  "website_check": {
+    "places_api": null,
+    "exa_search": "exa_error: HTTP Error 402: Payment Required",
+    "domain_check": null
+  },
+  "valid_target": true,
+  "website_evidence": [],
+  "email": null,
+  "email_all": [],
+  "email_source": null
+}
